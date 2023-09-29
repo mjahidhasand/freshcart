@@ -1,0 +1,47 @@
+[
+  {
+    "img": "/images/tomato.png",
+    "title": "Hybrid Tomato",
+    "offer_text": "",
+    "quantity": "500 g",
+    "discount": 25,
+    "price": 20,
+    "main_price": 25
+  },
+  {
+    "img": "/images/onion.png",
+    "title": "Onion",
+    "offer_text": "",
+    "quantity": "1 KG",
+    "discount": 18,
+    "price": 22,
+    "main_price": 27
+  },
+  {
+    "img": "/images/potato.png",
+    "title": "Potato",
+    "offer_text": "",
+    "quantity": "1 KG",
+    "discount": 10,
+    "price": 25,
+    "main_price": 29
+  },
+  {
+    "img": "/images/green_chille.png",
+    "title": "Green Chille",
+    "offer_text": "",
+    "quantity": "100 g",
+    "discount": 19,
+    "price": 17,
+    "main_price": 20
+  },
+  {
+    "img": "/images/lady_finger.png",
+    "title": "Lady Finger",
+    "offer_text": "",
+    "quantity": "250 g",
+    "discount": 14,
+    "price": 23,
+    "main_price": 27
+  }
+]

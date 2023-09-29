@@ -1,0 +1,47 @@
+[
+  {
+    "img": "/images/maharaja_delight.png",
+    "title": "Chheda's Maharaja Delight Gift Pack",
+    "offer_text": "",
+    "quantity": "",
+    "discount": 0.4,
+    "price": 896,
+    "main_price": 900
+  },
+  {
+    "img": "/images/deritos.png",
+    "title": "Doritos Cheese Nachos",
+    "offer_text": "",
+    "quantity": "",
+    "discount": 0,
+    "price": 30,
+    "main_price": 0
+  },
+  {
+    "img": "/images/bisleri.png",
+    "title": "Lijjat Plain Urad Papad",
+    "offer_text": "",
+    "quantity": "5 L",
+    "discount": 0,
+    "price": 68,
+    "main_price": 0
+  },
+  {
+    "img": "/images/energy_drink.png",
+    "title": "Kurkure Masala Munch Crisps X 3",
+    "offer_text": "",
+    "quantity": "",
+    "discount": 10,
+    "price": 54,
+    "main_price": 60
+  },
+  {
+    "img": "/images/mango_drink.png",
+    "title": "Mr. Makhana Himalayan Salt & Pepper",
+    "offer_text": "",
+    "quantity": "1.2 L",
+    "discount": 15,
+    "price": 102,
+    "main_price": 120
+  }
+]

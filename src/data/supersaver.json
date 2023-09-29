@@ -1,0 +1,47 @@
+[
+  {
+    "img": "/images/juice.png",
+    "title": "B Natural Mixed Fruit Juice",
+    "offer_text": "Buy 1 Get 1 FREE",
+    "quantity": "",
+    "discount": 50,
+    "price": 130,
+    "main_price": 260
+  },
+  {
+    "img": "/images/eggs.png",
+    "title": "Hen Fruit White Protein Rich Eggs",
+    "offer_text": "",
+    "quantity": "",
+    "discount": 40,
+    "price": 99,
+    "main_price": 165
+  },
+  {
+    "img": "/images/cheese.png",
+    "title": "Go Cheese Slices 200 g",
+    "offer_text": "",
+    "quantity": "",
+    "discount": 24,
+    "price": 125,
+    "main_price": 165
+  },
+  {
+    "img": "/images/soan_papdi.png",
+    "title": "Soan Papdi by Charlie's 200 g",
+    "offer_text": "",
+    "quantity": "",
+    "discount": 46,
+    "price": 51,
+    "main_price": 96
+  },
+  {
+    "img": "/images/chocolate_syrup.png",
+    "title": "Cremica Chocolate Thicker Syrup",
+    "offer_text": "",
+    "quantity": "",
+    "discount": 20,
+    "price": 194,
+    "main_price": 225
+  }
+]

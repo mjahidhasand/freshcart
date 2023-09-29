@@ -1,0 +1,47 @@
+[
+    {
+      "img": "/images/juice.png",
+      "title": "B Natural Mixed Fruit Juice",
+      "offer_text": "Buy 1 Get 1 FREE",
+      "quantity": "",
+      "discount": 50,
+      "price": 130,
+      "main_price": 260
+    },
+    {
+      "img": "/images/water.png",
+      "title": "Storia 100% Tender Coconut Water",
+      "offer_text": "",
+      "quantity": "",
+      "discount": 18,
+      "price": 138,
+      "main_price": 170
+    },
+    {
+      "img": "/images/bisleri.png",
+      "title": "Bisleri Packaged Water",
+      "offer_text": "",
+      "quantity": "5 L",
+      "discount": 10,
+      "price": 25,
+      "main_price": 29
+    },
+    {
+      "img": "/images/energy_drink.png",
+      "title": "Sting Energy Drink Pack of 2",
+      "offer_text": "",
+      "quantity": "",
+      "discount": 15.6,
+      "price": 39,
+      "main_price": 40
+    },
+    {
+      "img": "/images/mango_drink.png",
+      "title": "Maaza Mango Drink",
+      "offer_text": "",
+      "quantity": "1.2 L",
+      "discount": 7,
+      "price": 70,
+      "main_price": 75
+    }
+  ]

@@ -1,0 +1,30 @@
+[
+  {
+    "img": "/images/fruits_vegitables.png",
+    "title": "Fruits & Vegitables"
+  },
+  {
+    "img": "/images/dairy_breakfast.png",
+    "title": "Dairy & Breakfast"
+  },
+  {
+    "img": "/images/egg_meat_fish.png",
+    "title": "Egg, Meat & Fish"
+  },
+  {
+    "img": "/images/bath_body.png",
+    "title": "Bath & Body"
+  },
+  {
+    "img": "/images/cold_drinks_juice.png",
+    "title": "Cold Drinks & Juices"
+  },
+  {
+    "img": "/images/snacks_munchies.png",
+    "title": "Snacks & Munchies"
+  },
+  {
+    "img": "/images/icy_delights.png",
+    "title": "Icy Delights"
+  }
+]
